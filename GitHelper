@@ -15,5 +15,5 @@ git remote add origin https://github.com/arzy-54-2/OOP-55-2.git
 git status  | Показывает текущее состояние репозитория
 git add .   | Добавляет все изменения в репозитории
 git commit -m "message" | Добавляет коммит в репозитории
-git branch
+git branch = проверяет мастер или майн
 git push origin main|master
