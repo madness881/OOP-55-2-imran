@@ -24,6 +24,9 @@ hero_1 = WarriorHero("Hero 1", 10, 1000,102)
 
 hero_1.action()
 
+#CamrlCase
+#snake_case
+
 
 
 
