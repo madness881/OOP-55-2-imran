@@ -7,7 +7,7 @@ class Heroes:
         print(f'{self.name} Копим ульту...!')
     def attack(self):
         print(f'{self.name} СЕЙЧАС БУДЕТ АТАКОВАТЬ!')
-        print(f"Хп персонажа на данный момент: {self.damage}")
+        print(f"Хп персонажа на данный момент: {self.hp}")
         print(f"Персонаж нанес урон: {self.damage}")
 class Archer(Heroes):
     def __init__(self,name,hp,damage,arrows=5,precision=80):
