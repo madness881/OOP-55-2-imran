@@ -9,13 +9,17 @@ git config --global user.email "your-email@example.com"
 
 git init    | Для иницылизации репозитория
 git remote add origin https://github.com/arzy-54-2/OOP-55-2.git
+git remate removo origin /// удаление репозитория
 ----------------------------------------------------------------------------
 Команды для работы с репозиторием
 
 git status | Показывает текущее состояние репозитория
 git add .   | Добавляет все изменения в репозитории
 git commit -m "message" | Добавляет коммит в репозитории
-git branch = проверяет мастер или майн
+git branch  /// показывает ветки в репозитории
+branch name_branch /// Добавляет новую ветку в рп
+git switch name_branch /// переключает на ветки
+git merge 
 git push origin main|master
 ==========================================
 
